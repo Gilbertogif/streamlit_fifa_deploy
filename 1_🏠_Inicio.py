@@ -2,6 +2,7 @@ import streamlit as st
 import webbrowser
 import pandas as pd
 from datetime import datetime
+import openai
 
 # Configuração da pagina.
 st.set_page_config(
